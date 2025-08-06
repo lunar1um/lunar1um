@@ -1,4 +1,4 @@
-### hi! 👋👋👋👋👋👋
+### hai! :3 👋👋👋👋👋👋
 <img src="https://c.tenor.com/NjbLQCvQoC8AAAAd/tenor.gif" alt="ba dum ts" width="20%" height="auto"> <img src="https://c.tenor.com/NjbLQCvQoC8AAAAd/tenor.gif" alt="ba dum ts" width="20%" height="auto"> <img src="https://c.tenor.com/NjbLQCvQoC8AAAAd/tenor.gif" alt="ba dum ts" width="20%" height="auto"> <img src="https://c.tenor.com/NjbLQCvQoC8AAAAd/tenor.gif" alt="ba dum ts" width="20%" height="auto"> 
 
 #### *i have:*  
