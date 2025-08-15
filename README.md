@@ -15,4 +15,4 @@
 - [soggy icons](https://github.com/lunar1um/soggy-icons) - an icon pack because i love soggy cat!!!  
 - ~~[mbdtfm - *maybe do this for me*](https://youtu.be/dQw4w9WgXcQ?si=VtVKTWLqLM4yZTIt) - not yet, but i'm sure this will save you time~~ hell no, i'm too lazy
 - DOOM-inspired game that follows a similar approach to its 3D effect  
-- b a l l s simulation (yes literally)  
+- [b a l l s simulation](https://github.com/lunar1um/balls.rs) (yes literally)  
