@@ -16,5 +16,5 @@
 - DOOM-inspired game that follows a similar approach to its 3D effect that is made in rust!  
 - [b a l l s simulation](https://github.com/lunar1um/balls.rs) (yes literally)
 
-#### i use arch btw 😂  
-here's my dotfiles if u wanna take a look: [here](https://github.com/lunar1um/dotfiles)
+*i use arch btw* ;3  
+here's my dotfiles if you wanna take a look 👉 [hereherehere](https://github.com/lunar1um/dotfiles)
