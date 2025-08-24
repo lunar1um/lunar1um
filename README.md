@@ -11,7 +11,8 @@
 <sub><strong>Figma</strong> <img width="10px" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/figma.svg"> is also really sigma! (get it??)</sub> 
 
 #### *i make dumb things using the knowledge i've learnt!:*
-- [lazycloud](https://github.com/lunar1um/lazycloud) - a wrapper for *rclone* (that i personally use myself)  
+- [lazycloud](https://github.com/lunar1um/lazycloud) - a wrapper for *rclone* (that i personally use myself)
+- [lazyfav (v2)](https://github.com/lunar1um/lazyfav) - a quick way to favourite spotify tracks  
 - [soggy icons](https://github.com/lunar1um/soggy-icons) - an icon pack because i love soggy cat!!!  
 - DOOM-inspired game that follows a similar approach to its 3D effect that is made in rust!  
 - [b a l l s simulation](https://github.com/lunar1um/balls.rs) (yes literally)
