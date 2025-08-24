@@ -8,7 +8,10 @@
   <li> 0.1 years experience on <strong>Web Development</strong> 🫸<img width="15px" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/typescript-react.svg" alt="meta"> <img width="15px" alt="framework" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/vite.svg"> <img width="15px" alt="css utility library" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/tailwind.svg">🫷</li>
   <li>4 years ⬇️ experience on <strong>Python</strong> <img width="15px" alt="snek" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/python.svg"></li>
 </ul>
-<sub><strong>Figma</strong> <img width="10px" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/figma.svg"> is also really sigma! (get it??)</sub> 
+<sub><strong>Figma</strong> <img width="10px" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/figma.svg"> is also really sigma! (get it??)</sub>   
+
+#### *sum stats:*
+![lunar1um's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lunar1um&theme=onedark&hide_border=true)
 
 #### *i make dumb things using the knowledge i've learnt!:*
 - [lazycloud](https://github.com/lunar1um/lazycloud) - a wrapper for *rclone* (that i personally use myself)
