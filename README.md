@@ -15,7 +15,8 @@
 
 #### *i make dumb things using the knowledge i've learnt!:*
 - [lazycloud](https://github.com/lunar1um/lazycloud) - a wrapper for *rclone* (that i personally use myself)
-- [lazyfav (v2)](https://github.com/lunar1um/lazyfav) - a quick way to favourite spotify tracks  
+- [lazyfav (v2)](https://github.com/lunar1um/lazyfav.rs) - a quick way to favourite spotify tracks
+- [lazyclicker (v2)](https://github.com/lunar1um/lazyclicker.rs) - an autoclicker
 - [soggy icons](https://github.com/lunar1um/soggy-icons) - an icon pack because i love soggy cat!!!  
 - DOOM-inspired game that follows a similar approach to its 3D effect that is made in rust!  
 - [b a l l s simulation](https://github.com/lunar1um/balls.rs) (yes literally)
