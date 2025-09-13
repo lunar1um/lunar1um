@@ -3,10 +3,11 @@
 
 #### *i possess:*  
 <ul>
-  <li> 3 months experience on <strong>Rust</strong> <img alt="ferris" width="15px" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/rust.svg"> </li>
-  <li> 1 week experience on <strong>Go</strong> <img alt="otter" width="15px" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/go.svg"> </li>
-  <li> 4 months experience on <strong>Web Development</strong> 🫸<img width="15px" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/typescript-react.svg" alt="meta"> <img width="15px" alt="framework" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/vite.svg"> <img width="15px" alt="css utility library" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/tailwind.svg">🫷</li>
-  <li>4 years ⬇️ experience on <strong>Python</strong> <img width="15px" alt="snek" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/python.svg"></li>
+  <li> 4 months experience on <strong>Rust</strong> (<img alt="ferris" width="15px" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/rust.svg">) </li>
+  <li> 1 week experience on <strong>Go</strong> (<img alt="otter" width="15px" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/go.svg">) </li>
+  <li> 4.1 months experience on <strong>Web Development</strong> (🫸<img width="15px" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/typescript-react.svg" alt="meta"> <img width="15px" alt="framework" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/vite.svg"> <img width="15px" alt="css utility library" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/tailwind.svg">🫷)</li>
+  <li>3 years ⬇️ (IT'S GOING DOWN) experience on <strong>Python</strong> (<img width="15px" alt="slither" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/python.svg">)</li> 
+  <li>Starting with <strong>C++</strong> (<img width="15px" alt="cee pee pee" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/d80fa33fd2e107b26e84310a7b9c2961d646b942/icons/mocha/cpp.svg">)</li>
 </ul>
 <sub><strong>Figma</strong> <img width="10px" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/figma.svg"> is also really sigma! (get it??)</sub>   
 
