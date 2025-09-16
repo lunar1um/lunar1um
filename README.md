@@ -9,15 +9,14 @@
   <li>3 years ⬇️ (IT'S GOING DOWN) experience on <strong>Python</strong> (<img width="15px" alt="slither" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/python.svg">)</li> 
   <li>Starting with <strong>C++</strong> (<img width="15px" alt="cee pee pee" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/d80fa33fd2e107b26e84310a7b9c2961d646b942/icons/mocha/cpp.svg">)</li>
 </ul>
-<sub><strong>Figma</strong> <img width="10px" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/figma.svg"> is also really sigma! (get it??)</sub>   
+<sub><img width="10px" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/figma.svg"> is very sigma (trust)</sub>   
 
 #### *i make dumb things using the knowledge i've learnt!:*
 - [lazycloud](https://github.com/lunar1um/lazycloud) - a wrapper for *rclone* (that i personally use myself)
 - [lazyfav (v2)](https://github.com/lunar1um/lazyfav.rs) - a quick way to favourite spotify tracks
 - [lazyclicker (v2)](https://github.com/lunar1um/lazyclicker.rs) - an autoclicker
 - [soggy icons](https://github.com/lunar1um/soggy-icons) - an icon pack because i love soggy cat!!!  
-- DOOM-inspired game that follows a similar approach to its 3D effect that is made in rust!  
-- [b a l l s simulation](https://github.com/lunar1um/balls.rs) (yes literally)
+- [balls simulation](https://github.com/lunar1um/balls.rs) - self-explanatory
 
 *i use arch btw* ;3  
-here's my dotfiles if you wanna take a look 👉 [hereherehere](https://github.com/lunar1um/dotfiles)
+here's my dotfiles if you wanna take a look 👉 [here](https://github.com/lunar1um/dotfiles)
