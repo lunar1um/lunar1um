@@ -19,4 +19,4 @@
 - [balls simulation](https://github.com/lunar1um/balls.rs) - self-explanatory
 
 *i use arch btw* ;3  
-here's my dotfiles if you wanna take a look 👉 [here](https://github.com/lunar1um/dotfiles)
+here's my dotfiles if you wanna take a look 👉 [here](https://github.com/lunar1um/bocchi-dotfiles)
