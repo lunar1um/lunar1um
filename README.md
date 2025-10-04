@@ -1,22 +1,26 @@
-### hai! :3 👋👋👋👋👋👋
-<img src="https://c.tenor.com/NjbLQCvQoC8AAAAd/tenor.gif" alt="ba dum ts" width="20%" height="auto"> <img src="https://c.tenor.com/NjbLQCvQoC8AAAAd/tenor.gif" alt="ba dum ts" width="20%" height="auto"> <img src="https://c.tenor.com/NjbLQCvQoC8AAAAd/tenor.gif" alt="ba dum ts" width="20%" height="auto"> <img src="https://c.tenor.com/NjbLQCvQoC8AAAAd/tenor.gif" alt="ba dum ts" width="20%" height="auto"> 
+<div align="center">
+  
+# ☁️ hi, i'm lunar ☁️
 
-#### *i possess:*  
-<ul>
-  <li> 4 months experience on <strong>Rust</strong> (<img alt="ferris" width="15px" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/rust.svg">) (I LOVE RUST ❤️❤️) </li> 
-  <li> 1 week experience on <strong>Go</strong> (<img alt="otter" width="15px" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/go.svg">) </li>
-  <li> 4.1 months experience on <strong>Web Development</strong> (🫸<img width="15px" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/typescript-react.svg" alt="meta"> <img width="15px" alt="framework" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/vite.svg"> <img width="15px" alt="css utility library" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/tailwind.svg">🫷)</li>
-  <li>3 years ⬇️ (IT'S GOING DOWN) experience on <strong>Python</strong> (<img width="15px" alt="slither" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/python.svg">)</li> 
-  <li>Starting with <strong>C++</strong> (<img width="15px" alt="cee pee pee" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/d80fa33fd2e107b26e84310a7b9c2961d646b942/icons/mocha/cpp.svg">)</li>
-</ul>
-<sub><img width="10px" src="https://raw.githubusercontent.com/catppuccin/vscode-icons/b7fd50f7fd6a9e2abe73bcdd978f3ca58adb1bc9/icons/mocha/figma.svg"> is very sigma (trust)</sub>   
+*i'm dumb but i'll do it anyway~*
 
-#### *i make dumb things using the knowledge i've learnt!:*
-- [lazycloud](https://github.com/lunar1um/lazycloud) - a wrapper for *rclone* (that i personally use myself)
-- [lazyfav (v2)](https://github.com/lunar1um/lazyfav.rs) - a quick way to favourite spotify tracks
-- [lazyclicker (v2)](https://github.com/lunar1um/lazyclicker.rs) - an autoclicker
-- [soggy icons](https://github.com/lunar1um/soggy-icons) - an icon pack because i love soggy cat!!!  
-- [balls simulation](https://github.com/lunar1um/balls.rs) - self-explanatory
+<img src="https://camo.githubusercontent.com/b80422fc13f266f0f0cbbab10a2a31aebe3daa126669a5a2f27378ad334e3ffd/68747470733a2f2f632e74656e6f722e636f6d2f4e6a624c514376516f433841414141642f74656e6f722e676966" width="200"/>
 
-*i use arch btw* ;3  
-here's my dotfiles if you wanna take a look 👉 [here](https://github.com/lunar1um/bocchi-dotfiles)
+
+### 🌺 about
+• a designer and coder who loves making cozy things  
+• currently learning: c++ and rust  
+• daily motivation: coffee, lofi music, and anime  
+• fun fact: i use arch btw  
+
+### ✨ things i work with
+<img src="https://skillicons.dev/icons?i=js,svelte,python,nodejs,html,css,rust,cpp,git,vscode,figma,arch&theme=dark" />
+
+### 🌏 me when other platforms
+hold on im still working on this 🥲
+
+---
+
+*thanks for stopping by! have a lovely day :3*
+
+</div>
