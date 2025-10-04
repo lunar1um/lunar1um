@@ -1,6 +1,6 @@
 <div align="center">
   
-# ☁️ hi, i'm lunar ☁️
+# ☁️ hi, i'm lunar 🌙
 
 *i'm dumb but i'll do it anyway~*
 
@@ -14,10 +14,12 @@
 • fun fact: i use arch btw  
 
 ### ✨ things i work with
-<img src="https://skillicons.dev/icons?i=js,svelte,python,nodejs,html,css,rust,cpp,git,vscode,figma,arch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,svelte,nodejs,html,css,python,rust,cpp,git,vscode,figma,linux&theme=dark" />
 
-### 🌏 me when other platforms
-hold on im still working on this 🥲
+### 🌏 contact
+• website: https://lunar1um.vercel.app  
+• email: [lunarium.dev@proton.me](mailto:lunarium.dev@proton.me)  
+• discord: lunar1um  
 
 ---
 
