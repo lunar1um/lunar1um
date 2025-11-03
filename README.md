@@ -22,8 +22,6 @@
 
 ---
 
-<img src="https://github.com/user-attachments/assets/ea320e43-3253-415f-ad3e-628617050df3" width="350" />
-
 *thanks for stopping by! have a lovely day :3*
 
 </div>
