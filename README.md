@@ -1,6 +1,6 @@
 <div align="center">
   
-# ☁️ hi, i'm lunar 🌙
+# ☁️ hi, i'm tsuki 🌙
 
 *i'm dumb but i'll do it anyway~*
 
@@ -16,9 +16,9 @@
 <img src="https://skillicons.dev/icons?i=js,svelte,nodejs,html,css,python,rust,cpp,git,vscode,figma,linux&theme=dark" />
 
 ### 🌏 contact
-• website: https://lunar1um.vercel.app  
+• website: on hold rn  
 • email: [lunarium.dev@proton.me](mailto:lunarium.dev@proton.me)  
-• discord: lunar1um  
+• discord: ._tsuki.hoshino  
 
 ---
 
