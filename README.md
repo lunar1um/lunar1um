@@ -18,7 +18,7 @@
 ### 🌏 contact
 • website: on hold rn  
 • email: [lunarium.dev@proton.me](mailto:lunarium.dev@proton.me)  
-• discord: ._tsuki.hoshino  
+• discord: tsukii.hoshino  
 
 ---
 
