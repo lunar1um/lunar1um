@@ -7,8 +7,8 @@
 <img src="https://camo.githubusercontent.com/b80422fc13f266f0f0cbbab10a2a31aebe3daa126669a5a2f27378ad334e3ffd/68747470733a2f2f632e74656e6f722e636f6d2f4e6a624c514376516f433841414141642f74656e6f722e676966" width="200"/>
 
 ### 🌺 about
-• a designer and coder who loves making cozy things  
-• currently learning: c++ and rust  
+• a designer and coder who loves making cozy & useful (more like useless) things  
+• currently learning: how to touch grass    
 • daily motivation: music, money, and friends   
 • fun fact: i use arch btw  
 
@@ -16,9 +16,7 @@
 <img src="https://skillicons.dev/icons?i=js,svelte,nodejs,html,css,python,rust,cpp,git,vscode,figma,linux&theme=dark" />
 
 ### 🌏 contact
-• website: on hold rn  
-• email: [lunarium.dev@proton.me](mailto:lunarium.dev@proton.me)  
-• discord: [.tsukitten](https://discordapp.com/users/451335202342436866)  
+[email](mailto:lunarium.dev@proton.me) ~ [discord](https://discordapp.com/users/451335202342436866)  
 
 ---
 
